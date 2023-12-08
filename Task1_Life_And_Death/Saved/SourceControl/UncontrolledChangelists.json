@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1_Map.umap",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/BP_Task1Charecter.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/Input/Actions/IA_LEFT.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/Input/Actions/IA_RIGHT.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/Input/IMC_TASK1.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/BP_Charecter.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/BP_Charecter2.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/BP_Charecter1.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/BP_Trigger.uasset",
+				"C:/Users/buzzt/OneDrive/Desktop/class/Task1_Life_And_Death/Content/Task1Character/BP_Charecter1_2.uasset"
+			]
+		}
+	]
+}
