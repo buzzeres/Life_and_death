@@ -1703,3 +1703,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.16-02.09.16:678][746]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
 [2024.01.16-02.09.16:678][746]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
 [2024.01.16-02.09.16:678][746]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.01.16-02.11.01:913][746]LogDerivedDataCache: C:/Users/buzzt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.617 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8338 files in 10375 folders with total size 573 MiB.
